@@ -1,6 +1,9 @@
 # AI_PracticalAttempts
 An assortment of programs showcasing AI algorithms that I learnt at university and for fun
 
+I have attempted to build everything in these projects with limited libraries, the libraries that I do use are included with Python.
+For graphics, I make use of the Python Turtle graphics library that comes built in to Python3, however I have found that on some linux systems it needs to be installed separately.
+
 ## Genetic Algorithm - Shakespeare
 https://en.wikipedia.org/wiki/Infinite_monkey_theorem
 The project is based off of the idea that a monkey seated at a typewriter, given infinite time will eventually type out the full works of Shakespeare
